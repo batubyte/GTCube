@@ -1,0 +1,2 @@
+# GTCube
+Growtopia Private Server
