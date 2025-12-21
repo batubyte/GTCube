@@ -1,2 +1,2 @@
-# GTCube
+# Buildo
 Growtopia Private Server
